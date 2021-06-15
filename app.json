@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/level/level",
+    "pages/rank/rank",
+    "pages/phonics/phonics",
+    "pages/games/games",
+    "pages/gamessignup/gamessignup",
+    "pages/gamesscore0/gamesscore0",
+    "pages/gamesscore1/gamesscore1"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
