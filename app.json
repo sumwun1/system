@@ -2,7 +2,6 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/level/level",
     "pages/rank/rank",
     "pages/phonics/phonics",
     "pages/games/games",

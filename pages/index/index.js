@@ -3,7 +3,7 @@
 const app = getApp()
 
 Page({
-  data: {
+  /*data: {
     motto: 'Hello Worl',
     userInfo: {},
     hasUserInfo: false,
@@ -11,9 +11,9 @@ Page({
   },
   //事件处理函数
   bindViewTap: function() {
-    /*wx.navigateTo({
+    wx.navigateTo({
       url: '../logs/logs'
-    })*/
+    })
   },
   onLoad: function () {
     if (app.globalData.userInfo) {
@@ -42,7 +42,7 @@ Page({
         }
       })
     }
-  },
+  },*/
   /*level: function(e) {
     //console.log(e)
     console.log("eugfindjvk")
